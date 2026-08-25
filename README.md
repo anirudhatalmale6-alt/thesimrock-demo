@@ -3,7 +3,7 @@
 A frozen copy of the site, built for the presentation. It opens instantly and
 cannot go down mid-demo.
 
-It is a **slice**, not the whole catalogue: 840 of the 19,378 add-ons — the
+It is a **slice**, not the whole catalogue: 839 of the 19,378 add-ons — the
 first pages of every category and simulator, and every entry they link to.
 Anything you can click from a copied page really exists here. Paging past the
 end of the slice lands on a page that says so.
